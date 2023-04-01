@@ -1,4 +1,4 @@
-##Crypto currency prediction
+##Crypto currency price prediction
 
 We have made a linear regression model for 5 crypto currency tokens
 
